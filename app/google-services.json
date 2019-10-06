@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "894024961068",
+    "firebase_url": "https://push-me-94962955.firebaseio.com",
+    "project_id": "push-me-94962955",
+    "storage_bucket": "push-me-94962955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894024961068:android:7f596d49ff0f8ad4",
+        "android_client_info": {
+          "package_name": "com.nightowldevelopers.levelup2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894024961068-903599gpn19rh0mkbu11fb9vrep2ihpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.levelup2",
+            "certificate_hash": "75b4fd31c3293ed2e33964f9470b137090ea4072"
+          }
+        },
+        {
+          "client_id": "894024961068-plu48ticp209un8srqela0hjcdjm8dt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.levelup2",
+            "certificate_hash": "bc33aa2ded7c9da604de004707b2fb447c83f5a8"
+          }
+        },
+        {
+          "client_id": "894024961068-5q5e6gifhdp1an0a2u74i0nvjdudd2hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.levelup2",
+            "certificate_hash": "3d368909ff2e521f93736455782795f08242e623"
+          }
+        },
+        {
+          "client_id": "894024961068-2smev55l6i58sbc20q6ragvravkmufd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.levelup2",
+            "certificate_hash": "a27db23de77c5da9a5817b95d8aaa5cecb807453"
+          }
+        },
+        {
+          "client_id": "894024961068-llfqh2n3o0fag6b9r4fvs26am9j9bva1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.levelup2",
+            "certificate_hash": "58424372806834dae8228e459fd4dd1269a2fee2"
+          }
+        },
+        {
+          "client_id": "894024961068-crm5ebr1275fkocvq7jj2sh46b7akbol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUUykxHIRcyrx3lxgrEIRhRQSkit5s2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894024961068-crm5ebr1275fkocvq7jj2sh46b7akbol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6425347832770094~8061430100"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894024961068:android:9f5cb402aa7e2533",
+        "android_client_info": {
+          "package_name": "com.nightowldevelopers.pushme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894024961068-a5katl1e4c3hl5otj9ajtgl8704nerlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.pushme",
+            "certificate_hash": "58424372806834dae8228e459fd4dd1269a2fee2"
+          }
+        },
+        {
+          "client_id": "894024961068-crm5ebr1275fkocvq7jj2sh46b7akbol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUUykxHIRcyrx3lxgrEIRhRQSkit5s2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894024961068-crm5ebr1275fkocvq7jj2sh46b7akbol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6425347832770094~5093713341"
+    }
+  ],
+  "configuration_version": "1"
+}
