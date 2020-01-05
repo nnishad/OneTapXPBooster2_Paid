@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.nightowldevelopers.levelup2", appContext.packageName)
+        assertEquals("com.nightowldevelopers.onetapxpboost", appContext.packageName)
     }
 }

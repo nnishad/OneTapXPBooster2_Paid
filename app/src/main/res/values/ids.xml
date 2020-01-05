@@ -7,7 +7,7 @@ Save this file as res/values/games-ids.xml in your project.
     <!-- app_id -->
     <string name="app_id" translatable="false">894024961068</string>
     <!-- package_name -->
-    <string name="package_name" translatable="false">com.nightowldevelopers.levelup2</string>
+    <string name="package_name" translatable="false">com.nightowldevelopers.pushme</string>
     <!-- achievement Level 1 -->
     <string name="achievement_level_1" translatable="false">CgkIrJipwIIaEAIQAQ</string>
     <!-- achievement Level 2 -->
@@ -26,8 +26,8 @@ Save this file as res/values/games-ids.xml in your project.
     <string name="achievement_level_8" translatable="false">CgkIrJipwIIaEAIQCg</string>
     <!-- achievement Level 9 -->
     <string name="achievement_level_9" translatable="false">CgkIrJipwIIaEAIQCw</string>
-    <!-- achievement The Collector -->
-    <string name="achievement_the_collector" translatable="false">CgkIrJipwIIaEAIQDA</string>
+    <!-- achievement Level 10 -->
+    <string name="achievement_level_10" translatable="false">CgkIrJipwIIaEAIQDA</string>
     <!-- achievement Instagram Achievement -->
     <string name="achievement_instagram_achievement" translatable="false">CgkIrJipwIIaEAIQDQ</string>
     <!-- achievement Rate on Playstore -->

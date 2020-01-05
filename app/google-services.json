@@ -15,27 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "894024961068-903599gpn19rh0mkbu11fb9vrep2ihpn.apps.googleusercontent.com",
+          "client_id": "894024961068-prqlmf0nucaneo1vofnknaogk92isbl3.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.nightowldevelopers.levelup2",
-            "certificate_hash": "75b4fd31c3293ed2e33964f9470b137090ea4072"
-          }
-        },
-        {
-          "client_id": "894024961068-plu48ticp209un8srqela0hjcdjm8dt2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.nightowldevelopers.levelup2",
-            "certificate_hash": "bc33aa2ded7c9da604de004707b2fb447c83f5a8"
-          }
-        },
-        {
-          "client_id": "894024961068-5q5e6gifhdp1an0a2u74i0nvjdudd2hn.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.nightowldevelopers.levelup2",
-            "certificate_hash": "3d368909ff2e521f93736455782795f08242e623"
+            "certificate_hash": "13d839a53d34eb5c3b6b81af86d0e3fd39d48513"
           }
         },
         {
@@ -44,14 +28,6 @@
           "android_info": {
             "package_name": "com.nightowldevelopers.levelup2",
             "certificate_hash": "a27db23de77c5da9a5817b95d8aaa5cecb807453"
-          }
-        },
-        {
-          "client_id": "894024961068-llfqh2n3o0fag6b9r4fvs26am9j9bva1.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.nightowldevelopers.levelup2",
-            "certificate_hash": "58424372806834dae8228e459fd4dd1269a2fee2"
           }
         },
         {
